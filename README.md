@@ -1,4 +1,10 @@
+！！！这是一个辅助看盘的指标，适合习惯跨周期均线系统的交易者使用，不是EA，不产生任何订单动作，不开仓不平仓不改已有任何订单
+
 使用说明：把 HTF_MA_Context.ex4 下载后复制到 MT4数据目录/MQL4/Indicators/。拖到 M15 图表，参数保持默认即可用。
+
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/1ce54e2d-e550-467c-82f3-196a4dbe2127" />
+<img width="1656" height="880" alt="image" src="https://github.com/user-attachments/assets/9463c91a-2314-427d-bdce-f5b041c21759" />
+
 
 # HTF_MA_Context 指标说明 v1.10
 
